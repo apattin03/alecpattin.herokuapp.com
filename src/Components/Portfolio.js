@@ -30,16 +30,16 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Stuff I Make.</h1>
+            <h1>What I Make.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                <h3>
-                 <a href="https://time-stuff.herokuapp.com/">TimeStuff</a> :
+                 <a href="https://time-everything.herokuapp.com/">TimeEverything: </a>
                  I am constantly brewing tea/coffee in my office or have dinner baking in the oven, so I created a custom timer for myself!
                  </h3> 
                  <h3>
-                 <a href="">Scrum Experiment: Get Stuff Done</a> :
-                 I am constantly brewing tea/coffee in my office or have dinner baking in the oven, so I created a custom timer for myself!
+                 <a href="https://alecpattin.medium.com/scrum-experiment-get-it-done-3857e90dfd">Scrum Experiment: Get Stuff Done:</a>
+                 <span></span> I wanted to get some pesky, half-done projects completed using Scrum! 
                  </h3> 
             </div>
           </div>
